@@ -1,0 +1,49 @@
+.jumbotrone {
+    background-color: orange;
+    padding: 20px;
+    display: inline-block;
+    margin: 100px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 450px;
+}
+
+.jumbotron{
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.btn{
+    padding-top: 10px;
+}
+
+.original{
+    background-color: bisque;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    justify-content: center;
+    display: flex;
+}
+.summary{
+    background-color: aquamarine;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    justify-content: center;
+    display: flex;
+}
+
+.trt{
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+ 
+}
